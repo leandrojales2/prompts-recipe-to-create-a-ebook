@@ -1,9 +1,4 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
@@ -12,7 +7,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/cover_title.PNG"
     width="400"  
 />
 </p>
@@ -22,7 +17,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/leandrojales2/prompts-recipe-to-create-a-ebook/blob/main/output/E-Book%20O%20Futuro%20%C3%A9%20Aut%C3%B4nomo%20-%20Como%20os%20Agentes%20de%20IA%20Est%C3%A3o%20Redesenhando%20o%20Mundo.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
